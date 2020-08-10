@@ -29,7 +29,7 @@ I'm a software engineer currently working at Falabella Financiero, Santiago, Chi
 - C++ (low exp)
 
 
-## What I'm looking forward 👁️
+## What I'm looking forward 🔭
 - Continue growing/learning/sharing  and crafting awesomeness materialized as beautiful functional software and tools.
 - Improve my remote work and time management (thanks pandemics).
 
