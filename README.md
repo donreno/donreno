@@ -10,11 +10,12 @@ I'm a software engineer currently working at Falabella Financiero, Santiago, Chi
 - Most of my career I have been working as Java developer ☕
 - Love my work (specially if AC's are clear) ✔️
 - Fun fact: I hate moths (actually they scare me more than a giant spider) 😱
+- My main OS for work is Ubuntu 🐧
 
 ## What I'm currently doing 💻
 - Mostly working Backend integrations with legacy apps (soap, sockets, etc..) to expose/integrate with different and more current protocols (http/rest, kafka, grpc, etc...).
 - Building toolkits, templates and libraries to make other developers life easier (actually it is so my future self saves some time as well). 
-- Mostly coding and learning with [golang](https://golang.org/)  (and I love it ❤️)
+- Mostly coding and learning [golang](https://golang.org/)  (and I love it ❤️)
 - Mentoring and promoting good practices and love for the work (as always).
 
 ## Languages and tools (top of mind) 🔨
@@ -22,7 +23,6 @@ I'm a software engineer currently working at Falabella Financiero, Santiago, Chi
 - Javascript: nodejs, express, old good dom and web frameworks, etc... (mid exp)
 - Golang: go-kit, sarama, etc... (mid exp)
 - Kafka (mid exp)
-- Shell (low/mid exp) 
 - Kubernetes (low/mid exp)
 - PCF (low exp)
 - APIGee (low exp)
