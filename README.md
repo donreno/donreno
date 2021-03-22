@@ -21,7 +21,7 @@ I'm a software engineer currently working at Falabella Financiero, Santiago, Chi
 ## Languages and tools (top of mind) 🔨
 - Java/Groovy: Spring framework, spring boot, Java EE, etc... (high exp)
 - Javascript: nodejs, express, old good dom and web frameworks, etc... (mid exp)
-- Golang: go-kit, sarama, etc... (mid exp)
+- Golang: go-kit, sarama, etc... (high exp)
 - Kafka (mid exp)
 - Kubernetes (low/mid exp)
 - PCF (low exp)
