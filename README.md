@@ -9,8 +9,7 @@ I'm a software engineer currently working at Falabella Financiero, Santiago, Chi
 - Always trying to share knowledge (and gain more while doing so) 🧙🏼‍♂️
 - Most of my career I have been working as Java developer ☕
 - Love my work (specially if AC's are clear) ✔️
-- Fun fact: I hate moths (actually they scare me more than a giant spider) 😱
-- My main OS for work is Ubuntu 🐧
+- My main OS are PopOS and Ubuntu 🐧
 
 ## What I'm currently doing 💻
 - Mostly working Backend integrations with legacy apps (soap, sockets, etc..) to expose/integrate with different and more current protocols (http/rest, kafka, grpc, etc...).
