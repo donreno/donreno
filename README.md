@@ -6,26 +6,21 @@ I'm a software engineer currently working at Falabella Financiero, Santiago, Chi
 - Trying to promote good practices, clean coding, TDD and love for the work on teams I work with in order to ensure good crafting 🍺 
 - Agilesome practicioner 🐌
 - Awesome team player (or at least that's what I think of myself) 🍻
-- Always trying to share knowledge (and gain more while doing so) 🧙🏼‍♂️
-- Most of my career I have been working as Java developer ☕
-- Love my work (specially if AC's are clear) ✔️
+- Always learning new stuff and share knowledge 🧙🏼‍♂️
 - My main OS are PopOS and Ubuntu 🐧
 
 ## What I'm currently doing 💻
 - Mostly working Backend integrations with legacy apps (soap, sockets, etc..) to expose/integrate with different and more current protocols (http/rest, kafka, grpc, etc...).
-- Building toolkits, templates and libraries to make other developers life easier (actually it is so my future self saves some time as well). 
-- Mostly coding and learning [golang](https://golang.org/)  (and I love it ❤️)
-- Mentoring and promoting good practices and love for the work (as always).
+- Building toolkits, templates and libraries to make mine and other developers life easier. 
+- Coding and lobing [golang](https://golang.org/)
+- Mentoring and promoting good practices and love for the work.
 
 ## Languages and tools (top of mind) 🔨
-- Java/Groovy: Spring framework, spring boot, Java EE, etc... (high exp)
-- Javascript: nodejs, express, old good dom and web frameworks, etc... (mid exp)
-- Golang: go-kit, sarama, etc... (high exp)
-- Kafka (mid exp)
-- Kubernetes (low/mid exp)
-- PCF (low exp)
-- APIGee (low exp)
-- C++ (low exp)
+- Golang: go-kit, sarama, etc... 
+- Java/Groovy: Spring framework, spring boot, Java EE, etc... 
+- Javascript: nodejs, express...
+- Kafka 
+- Kubernetes 
 
 
 ## What I'm looking forward 🔭
