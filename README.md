@@ -12,8 +12,9 @@ I'm a software engineer currently working at Falabella Financiero, Santiago, Chi
 ## What I'm currently doing 💻
 - Mostly working Backend integrations with legacy apps (soap, sockets, etc..) to expose/integrate with different and more current protocols (http/rest, kafka, grpc, etc...).
 - Building toolkits, templates and libraries to make mine and other developers life easier. 
-- Coding and lobing [golang](https://golang.org/)
-- Mentoring and promoting good practices and love for the work.
+- Coding in [golang](https://golang.org/)
+- Mentoring, promoting good practices and love for the software development.
+- Leading teams
 
 ## Languages and tools (top of mind) 🔨
 - Golang: go-kit, sarama, etc... 
