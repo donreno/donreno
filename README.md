@@ -1,33 +1,18 @@
 ### HI! My name is [Renato San Martin](https://www.linkedin.com/in/renato-san-martin-37306017/)
-I'm a software engineer currently working at Falabella Financiero, Santiago, Chile.
+I'm a (Backend) software engineer currently working at Evernote, Santiago, Chile.
 
-## A bit about me 🤓
-- Software engineer with more than 10 years of experience mostly coding 👴
-- Trying to promote good practices, clean coding, TDD and love for the work on teams I work with in order to ensure good crafting 🍺 
-- Agilesome practicioner 🐌
-- Awesome team player (or at least that's what I think of myself) 🍻
-- Always learning new stuff and share knowledge 🧙🏼‍♂️
-- My main OS are PopOS and Ubuntu 🐧
+### My main poisons ☠️
+Java | Golang | Kubernetes | GCP 
 
-## What I'm currently doing 💻
-- Mostly working Backend integrations with legacy apps (soap, sockets, etc..) to expose/integrate with different and more current protocols (http/rest, kafka, grpc, etc...).
-- Building toolkits, templates and libraries to make mine and other developers life easier. 
-- Coding in [golang](https://golang.org/)
-- Mentoring, promoting good practices and love for the software development.
-- Leading teams
+### My hobbies
+- Building a homelab 🧪
+- Learning new languages (not only programming languages) 🗣️
+- Work out and eat (On any order to compensate for each other) 🍔
+- Drink coffe/mate/beer with friends 🍺
+- Very casual gamer 🎮
 
-## Languages and tools (top of mind) 🔨
-- Golang: go-kit, sarama, etc... 
-- Java/Groovy: Spring framework, spring boot, Java EE, etc... 
-- Javascript: nodejs, express...
-- Kafka 
-- Kubernetes 
-
-
-## What I'm looking forward 🔭
-- Continue growing/learning/sharing  and crafting awesomeness materialized as beautiful functional software and tools.
-- Improve my remote work and time management (thanks pandemics).
-
+### My unpopular and almost empty website 🌎
+https://donreno.github.io
 
 <!--
 **donreno/donreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
