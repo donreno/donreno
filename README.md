@@ -8,7 +8,7 @@ Java | Golang | Kubernetes | GCP
 - Building a homelab 🧪
 - Learning new languages (not only programming languages) 🗣️
 - Work out and eat (On any order to compensate for each other) 🍔
-- Drink coffe/mate/beer with friends 🍺
+- Drink coffee/mate/beer with friends 🍺
 - Very casual gamer 🎮
 
 ### My unpopular and almost empty website 🌎
