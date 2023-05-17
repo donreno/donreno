@@ -5,14 +5,15 @@ I'm a (Backend) software engineer currently working at Evernote, Santiago, Chile
 Java | Golang | Docker | Kubernetes | GCP 
 
 ### My hobbies
-- Building a homelab 🧪
+- Casual gaming
 - Learning new languages (not only programming languages) 🗣️
 - Work out and eat (On any order to compensate for each other) 🍔
 - Drink coffee/mate/beer with friends 🍺
-- Very casual gamer 🎮
+- Hikes 🚶
+- Planning on how to take over the world (Unsuccessfully so far)
 
 ### My unpopular and almost empty website 🌎
-https://donreno.github.io
+https://donreno.tech
 
 <!--
 **donreno/donreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
