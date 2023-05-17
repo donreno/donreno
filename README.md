@@ -2,7 +2,7 @@
 I'm a (Backend) software engineer currently working at Evernote, Santiago, Chile.
 
 ### My main poisons ☠️
-Java | Golang | Docket | Kubernetes | GCP 
+Java | Golang | Docker | Kubernetes | GCP 
 
 ### My hobbies
 - Building a homelab 🧪
