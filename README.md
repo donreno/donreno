@@ -7,9 +7,9 @@ Passionate about building scalable systems, optimizing performance, and navigati
 ---
 
 ## ⚡ Tech Stack  
-🚀 **Languages:** Java | Golang | Python 
-☁️ **Cloud & Infra:** Docker | Kubernetes | GCP | AWS | Nomad 
-🗂️ **Data Engineering**: Apache Airflow, Superset, Trino, BigQuery
+- 🚀 **Languages:** Java | Golang | Python 
+- ☁️ **Cloud & Infra:** Docker | Kubernetes | GCP | AWS | Nomad 
+- 🗂️ **Data Engineering**: Apache Airflow | Superset | Trino | BigQuery
 
 ---
 
@@ -17,7 +17,7 @@ Passionate about building scalable systems, optimizing performance, and navigati
 
 - 🎮 **Casual Gamer** – because life needs boss battles.  
 - 🗣️ **Language Learner** – human and programming alike.  
-- 🏋️‍♂️ **Work(out) & Eat** – a perfect equilibrium. 🍔  
+- 🏋️‍♂️ **Work(out) & Eat** – a perfect balance. 🍔  
 - 🍺 **Social Drinker** – coffee, mate, beer? Count me in!  
 - 🥾 **Hiker** – mountains > city streets.  
 - 🌎 **Aspiring World Domination Strategist** (failing gracefully).  
