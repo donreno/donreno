@@ -1,14 +1,15 @@
 # 👋 Hi, I'm [Renato San Martin](https://www.linkedin.com/in/renato-san-martin-37306017/)  
 
-### 💻 Backend Software Engineer | Evernote | Santiago, Chile 🇨🇱  
+### 💻 Senior Software Engineer | Scrum Master | Zerofox | Santiago, Chile 🇨🇱  
 
 Passionate about building scalable systems, optimizing performance, and navigating the ever-evolving tech landscape.  
 
 ---
 
 ## ⚡ Tech Stack  
-🚀 **Languages:** Java | Golang  
-☁️ **Cloud & Infra:** Docker | Kubernetes | GCP  
+🚀 **Languages:** Java | Golang | Python 
+☁️ **Cloud & Infra:** Docker | Kubernetes | GCP | AWS | Nomad 
+🗂️ **Data Engineering**: Apache Airflow, Superset, Trino, BigQuery
 
 ---
 
