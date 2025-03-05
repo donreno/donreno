@@ -1,19 +1,32 @@
-### HI! My name is [Renato San Martin](https://www.linkedin.com/in/renato-san-martin-37306017/)
-I'm a (Backend) software engineer currently working at Evernote, Santiago, Chile.
+# 👋 Hi, I'm [Renato San Martin](https://www.linkedin.com/in/renato-san-martin-37306017/)  
 
-### My main poisons ☠️
-Java | Golang | Docker | Kubernetes | GCP 
+### 💻 Backend Software Engineer | Evernote | Santiago, Chile 🇨🇱  
 
-### My hobbies
-- Casual gaming
-- Learning new languages (not only programming languages) 🗣️
-- Work out and eat (On any order to compensate for each other) 🍔
-- Drink coffee/mate/beer with friends 🍺
-- Hikes 🚶
-- Planning on how to take over the world (Unsuccessfully so far)
+Passionate about building scalable systems, optimizing performance, and navigating the ever-evolving tech landscape.  
 
-### My unpopular and almost empty website 🌎
-https://donreno.tech
+---
+
+## ⚡ Tech Stack  
+🚀 **Languages:** Java | Golang  
+☁️ **Cloud & Infra:** Docker | Kubernetes | GCP  
+
+---
+
+## 🎮 Beyond the Code  
+
+- 🎮 **Casual Gamer** – because life needs boss battles.  
+- 🗣️ **Language Learner** – human and programming alike.  
+- 🏋️‍♂️ **Work(out) & Eat** – a perfect equilibrium. 🍔  
+- 🍺 **Social Drinker** – coffee, mate, beer? Count me in!  
+- 🥾 **Hiker** – mountains > city streets.  
+- 🌎 **Aspiring World Domination Strategist** (failing gracefully).  
+
+---
+
+💬 Let’s connect and talk tech, gaming, or world conquest! 🚀  
+
+### [💾 My updated resume](https://github.com/donreno/resume/blob/dc2064129b585ea7db909dd6851a85920296ff5c/resume%20-%20rsanmartin.pdf)
+
 
 <!--
 **donreno/donreno** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
